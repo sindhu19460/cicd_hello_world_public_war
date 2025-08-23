@@ -1,0 +1,16 @@
+metadata:
+  description: Airflow job descriptor scripts
+  labels:
+    jira-board: 2877
+    jira-project: PEDSP
+    product: reporting and insights
+    public: false
+    sensitive: false
+    tier: '2'
+  links:
+  - title: runbook
+    url: https://github.com/sindhu19460/cicd_hello_world_public_war/blob/main/README.md
+  name: airflow-jobs
+spec:
+  owner: cg-dsp-operational-reporting-data
+  type: pipeline
