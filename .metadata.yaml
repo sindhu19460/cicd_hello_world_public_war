@@ -1,0 +1,19 @@
+metadata:
+  name: "cicd_hello_world_public_war"
+  description: "cicd_hello_world_public_war"
+  labels:
+    public: false
+    sensitive: false
+    jira-project: "pead"
+    jira-board: 2877
+    product: "reporting and insights"
+    tier: "2"
+  links:
+    - title: "README.md"
+      url: "https://github.com/sindhu19460/cicd_hello_world_public_war/blob/main/README.md"
+    - title: "RUNBOOK.md"
+      url: "https://github.com/sindhu19460/cicd_hello_world_public_war/blob/main/RUNBOOK.md"
+spec:
+  owner: "prac-sre"
+  type: "pipeline"
+  lifecycle: "production"
